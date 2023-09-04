@@ -1,0 +1,15 @@
+.analysis
+.entities
+.local
+.objects
+.project
+.templates
+.tmh
+Exceptions_Screenshots
+Documentation
+Data/Output
+Data/Temp
+Tests/RunAllTests.xaml
+Tests/RunAllTests_Logging.xaml
+Tests/TestLog.txt
+Tests/Tests.xlsx
